@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "binary_trees.h": "c",
+    "bit": "c",
+    "*.tcc": "c",
+    "memory_resource": "c",
+    "random": "c",
+    "limits": "c",
+    "algorithm": "c"
+  }
+}
